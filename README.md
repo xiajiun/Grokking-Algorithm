@@ -1,1 +1,1 @@
-# Grokking-Algorithm
+# Grokking-Algorithms
